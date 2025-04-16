@@ -13,3 +13,48 @@ In addition to checking out old commits and old file revisions, git checkout is 
 
 Git clean
 Removes untracked files from the working directory. This is the logical counterpart to git reset, which (typically) only operates on tracked files.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Changes from PrivateBranch2
+*****************************************************************************************
+Diagram of an event triggering Runner 1 to run Job 1, which triggers Runner 2 to run Job 2. Each of the jobs is broken into multiple steps.
