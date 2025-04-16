@@ -1,0 +1,37 @@
+1. git help
+Take help from the Git help section for different commands and other errors.  
+
+git help
+
+
+2. git config
+To set the basic configurations on Git like your name and email.
+
+git config
+
+
+  3. git config –-global user.name “ ”
+Sets configuration values for your user name on git. 
+
+git config –-global user.name “Ashish Madaan”
+
+
+4. git config –-global user.email ” “
+Sets configuration values for your user email on git.  
+
+git config –-global user.email ashishmadaan6@gmail.com
+
+
+5. git config –-global color.ui
+To see different colors on the command line for different outputs.  
+
+git config –-global color.ui true
+
+
+6. mkdir
+Create a directory if not created initially. 
+
+mkdir store
+
+
+7. cd
